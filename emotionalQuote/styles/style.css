@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(204, 231, 255);
+}
+
+.content_holder {
+    height: 70vh;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
